@@ -1,0 +1,13 @@
+Adelaide, Sydney, 201010, 116
+
+Alice Springs, Darwin, 201103, 428
+
+Melbourne, Sydney, 201806, 500
+
+Kathmandu, Pokhara, 201412, 2200
+
+GoldCoast, Sydney, 201705, 100
+
+Brisbane, Melbourne, 201808, 200
+
+Tasmania, Sydney, 201905, 80
